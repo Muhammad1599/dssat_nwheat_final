@@ -1,0 +1,26 @@
+DSSAT INITIAL_CONDITIONS Format
+===============================
+
+C = 1
+
+ICBL (layer depths in cm):
+5, 15, 30, 60, 100, 200
+
+SH2O (water content in cm³/cm³):
+0.2232, 0.2341, 0.2491, 0.2691, 0.2682, 0.2592
+
+SNH4 (ammonium in ppm):
+0.34, 0.34, 0.34, 0.34, 0.34, 0.34
+
+SNO3 (nitrate in ppm):
+3.10, 3.10, 3.10, 3.10, 3.10, 3.10
+
+---
+Calculated from:
+- Soil profile: data/1_icasa/SOIL_PROFILE_LAYERS.csv
+- Available water: 90%
+- Total nitrogen: 100 kg/ha
+- Calculation method: DSSAT XBuild logic
+- Date: 2025-01-11
+
+

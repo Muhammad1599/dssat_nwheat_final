@@ -1,0 +1,2 @@
+"soil_texture","soil_classification","soil_surface_color","soil_albedo","soil_evaporation_limit","drainage_rate_per_day","runoff_curve_no_SCS","mineralization_factor","soil_fertility_on_photo","soil_analys_meth_pH_buff","pH_buffer_determin_meth","soil_anal_meth_P_extract","phosphorus_determ_method","soil_anal_meth_exch_K","potassium_determ_method"
+"Loam","HC_GEN0011","BK",0.1,6,0.5,75,1,1,"SA001","SA001","SA001","SA001","SA001","SA001"

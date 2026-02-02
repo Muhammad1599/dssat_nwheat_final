@@ -1,0 +1,353 @@
+*MANAGEMENT OPERATIONS EVENT SUMMARY
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   1 OCT 24,   16  298      1      0  WH                Planting       
+   1 OCT 24,   16  298      1      0  WH  08 Sowing    
+   1 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   1 OCT 26,   16  300      3      2  WH  09 Germinate 
+   1 NOV  7,   16  312     15     14  WH  01 Emergence 
+   1 FEB  4,   17  035    104    103  WH                Fertilizer         40. kg[N]/ha 
+   1 MAY 10,   17  130    199    198  WH  02 End Juveni
+   1 MAY 24,   17  144    213    212  WH                Fertilizer         40. kg[N]/ha 
+   1 MAY 30,   17  150    219    218  WH  03 End Veg   
+   1 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   1 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   1 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   1 AUG  2,   17  214    283    282  WH  06 Maturity  
+   1 AUG  3,   17  215    284    283  WH  06 Maturity  
+   1 AUG  7,   17  219    288    287  WH  16 Harvest   
+   1 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6204. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   2 OCT 24,   16  298      1      0  WH                Planting       
+   2 OCT 24,   16  298      1      0  WH  08 Sowing    
+   2 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   2 OCT 26,   16  300      3      2  WH  09 Germinate 
+   2 NOV  7,   16  312     15     14  WH  01 Emergence 
+   2 FEB  4,   17  035    104    103  WH                Fertilizer         40. kg[N]/ha 
+   2 MAY 10,   17  130    199    198  WH  02 End Juveni
+   2 MAY 24,   17  144    213    212  WH                Fertilizer         40. kg[N]/ha 
+   2 MAY 30,   17  150    219    218  WH  03 End Veg   
+   2 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   2 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   2 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   2 AUG  2,   17  214    283    282  WH  06 Maturity  
+   2 AUG  3,   17  215    284    283  WH  06 Maturity  
+   2 AUG  7,   17  219    288    287  WH  16 Harvest   
+   2 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6259. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   3 OCT 24,   16  298      1      0  WH                Planting       
+   3 OCT 24,   16  298      1      0  WH  08 Sowing    
+   3 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   3 OCT 26,   16  300      3      2  WH  09 Germinate 
+   3 NOV  7,   16  312     15     14  WH  01 Emergence 
+   3 MAY 10,   17  130    199    198  WH  02 End Juveni
+   3 MAY 30,   17  150    219    218  WH  03 End Veg   
+   3 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   3 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   3 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   3 AUG  2,   17  214    283    282  WH  06 Maturity  
+   3 AUG  3,   17  215    284    283  WH  06 Maturity  
+   3 AUG  7,   17  219    288    287  WH  16 Harvest   
+   3 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     3881. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   4 OCT 24,   16  298      1      0  WH                Planting       
+   4 OCT 24,   16  298      1      0  WH  08 Sowing    
+   4 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   4 OCT 26,   16  300      3      2  WH  09 Germinate 
+   4 NOV  7,   16  312     15     14  WH  01 Emergence 
+   4 FEB  4,   17  035    104    103  WH                Fertilizer         40. kg[N]/ha 
+   4 MAY 10,   17  130    199    198  WH  02 End Juveni
+   4 MAY 24,   17  144    213    212  WH                Fertilizer         40. kg[N]/ha 
+   4 MAY 30,   17  150    219    218  WH  03 End Veg   
+   4 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   4 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   4 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   4 AUG  2,   17  214    283    282  WH  06 Maturity  
+   4 AUG  3,   17  215    284    283  WH  06 Maturity  
+   4 AUG  7,   17  219    288    287  WH  16 Harvest   
+   4 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6242. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   5 OCT 24,   16  298      1      0  WH                Planting       
+   5 OCT 24,   16  298      1      0  WH  08 Sowing    
+   5 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   5 OCT 26,   16  300      3      2  WH  09 Germinate 
+   5 NOV  7,   16  312     15     14  WH  01 Emergence 
+   5 FEB  4,   17  035    104    103  WH                Fertilizer         60. kg[N]/ha 
+   5 MAY 10,   17  130    199    198  WH  02 End Juveni
+   5 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+   5 MAY 30,   17  150    219    218  WH  03 End Veg   
+   5 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   5 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   5 AUG  2,   17  214    283    282  WH  06 Maturity  
+   5 AUG  3,   17  215    284    283  WH  06 Maturity  
+   5 AUG  7,   17  219    288    287  WH  16 Harvest   
+   5 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6774. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   6 OCT 24,   16  298      1      0  WH                Planting       
+   6 OCT 24,   16  298      1      0  WH  08 Sowing    
+   6 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   6 OCT 26,   16  300      3      2  WH  09 Germinate 
+   6 NOV  7,   16  312     15     14  WH  01 Emergence 
+   6 FEB  4,   17  035    104    103  WH                Fertilizer         40. kg[N]/ha 
+   6 MAY 10,   17  130    199    198  WH  02 End Juveni
+   6 MAY 24,   17  144    213    212  WH                Fertilizer         40. kg[N]/ha 
+   6 MAY 30,   17  150    219    218  WH  03 End Veg   
+   6 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   6 JUN 22,   17  173    242    241  WH                Fertilizer         40. kg[N]/ha 
+   6 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   6 AUG  2,   17  214    283    282  WH  06 Maturity  
+   6 AUG  3,   17  215    284    283  WH  06 Maturity  
+   6 AUG  7,   17  219    288    287  WH  16 Harvest   
+   6 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6232. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   7 OCT 24,   16  298      1      0  WH                Planting       
+   7 OCT 24,   16  298      1      0  WH  08 Sowing    
+   7 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   7 OCT 26,   16  300      3      2  WH  09 Germinate 
+   7 NOV  7,   16  312     15     14  WH  01 Emergence 
+   7 FEB  4,   17  035    104    103  WH                Fertilizer         60. kg[N]/ha 
+   7 MAY 10,   17  130    199    198  WH  02 End Juveni
+   7 MAY 24,   17  144    213    212  WH                Fertilizer         40. kg[N]/ha 
+   7 MAY 30,   17  150    219    218  WH  03 End Veg   
+   7 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   7 JUN 13,   17  164    233    232  WH                Fertilizer         20. kg[N]/ha 
+   7 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   7 AUG  2,   17  214    283    282  WH  06 Maturity  
+   7 AUG  3,   17  215    284    283  WH  06 Maturity  
+   7 AUG  7,   17  219    288    287  WH  16 Harvest   
+   7 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6776. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   8 OCT 24,   16  298      1      0  WH                Planting       
+   8 OCT 24,   16  298      1      0  WH  08 Sowing    
+   8 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   8 OCT 26,   16  300      3      2  WH  09 Germinate 
+   8 NOV  7,   16  312     15     14  WH  01 Emergence 
+   8 FEB  4,   17  035    104    103  WH                Fertilizer         80. kg[N]/ha 
+   8 MAY 10,   17  130    199    198  WH  02 End Juveni
+   8 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+   8 MAY 30,   17  150    219    218  WH  03 End Veg   
+   8 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   8 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   8 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   8 AUG  2,   17  214    283    282  WH  06 Maturity  
+   8 AUG  3,   17  215    284    283  WH  06 Maturity  
+   8 AUG  7,   17  219    288    287  WH  16 Harvest   
+   8 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     7229. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   9 OCT 24,   16  298      1      0  WH                Planting       
+   9 OCT 24,   16  298      1      0  WH  08 Sowing    
+   9 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+   9 OCT 26,   16  300      3      2  WH  09 Germinate 
+   9 NOV  7,   16  312     15     14  WH  01 Emergence 
+   9 FEB  4,   17  035    104    103  WH                Fertilizer         80. kg[N]/ha 
+   9 MAY 10,   17  130    199    198  WH  02 End Juveni
+   9 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+   9 MAY 30,   17  150    219    218  WH  03 End Veg   
+   9 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+   9 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+   9 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+   9 AUG  2,   17  214    283    282  WH  06 Maturity  
+   9 AUG  3,   17  215    284    283  WH  06 Maturity  
+   9 AUG  7,   17  219    288    287  WH  16 Harvest   
+   9 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     7236. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  10 OCT 24,   16  298      1      0  WH                Planting       
+  10 OCT 24,   16  298      1      0  WH  08 Sowing    
+  10 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  10 OCT 26,   16  300      3      2  WH  09 Germinate 
+  10 NOV  7,   16  312     15     14  WH  01 Emergence 
+  10 MAY 10,   17  130    199    198  WH  02 End Juveni
+  10 MAY 30,   17  150    219    218  WH  03 End Veg   
+  10 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  10 JUN 13,   17  164    233    232  WH                Fertilizer         60. kg[N]/ha 
+  10 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  10 AUG  2,   17  214    283    282  WH  06 Maturity  
+  10 AUG  3,   17  215    284    283  WH  06 Maturity  
+  10 AUG  7,   17  219    288    287  WH  16 Harvest   
+  10 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     3883. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  11 OCT 24,   16  298      1      0  WH                Planting       
+  11 OCT 24,   16  298      1      0  WH  08 Sowing    
+  11 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  11 OCT 26,   16  300      3      2  WH  09 Germinate 
+  11 NOV  7,   16  312     15     14  WH  01 Emergence 
+  11 FEB  4,   17  035    104    103  WH                Fertilizer         80. kg[N]/ha 
+  11 MAY 10,   17  130    199    198  WH  02 End Juveni
+  11 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+  11 MAY 30,   17  150    219    218  WH  03 End Veg   
+  11 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  11 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+  11 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  11 AUG  2,   17  214    283    282  WH  06 Maturity  
+  11 AUG  3,   17  215    284    283  WH  06 Maturity  
+  11 AUG  7,   17  219    288    287  WH  16 Harvest   
+  11 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     7229. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  12 OCT 24,   16  298      1      0  WH                Planting       
+  12 OCT 24,   16  298      1      0  WH  08 Sowing    
+  12 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  12 OCT 26,   16  300      3      2  WH  09 Germinate 
+  12 NOV  7,   16  312     15     14  WH  01 Emergence 
+  12 FEB  4,   17  035    104    103  WH                Fertilizer         80. kg[N]/ha 
+  12 MAY 10,   17  130    199    198  WH  02 End Juveni
+  12 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+  12 MAY 30,   17  150    219    218  WH  03 End Veg   
+  12 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  12 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+  12 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  12 AUG  2,   17  214    283    282  WH  06 Maturity  
+  12 AUG  3,   17  215    284    283  WH  06 Maturity  
+  12 AUG  7,   17  219    288    287  WH  16 Harvest   
+  12 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     7229. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  13 OCT 24,   16  298      1      0  WH                Planting       
+  13 OCT 24,   16  298      1      0  WH  08 Sowing    
+  13 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  13 OCT 26,   16  300      3      2  WH  09 Germinate 
+  13 NOV  7,   16  312     15     14  WH  01 Emergence 
+  13 FEB  4,   17  035    104    103  WH                Fertilizer         80. kg[N]/ha 
+  13 MAY 10,   17  130    199    198  WH  02 End Juveni
+  13 MAY 24,   17  144    213    212  WH                Fertilizer         60. kg[N]/ha 
+  13 MAY 30,   17  150    219    218  WH  03 End Veg   
+  13 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  13 JUN 22,   17  173    242    241  WH                Fertilizer         40. kg[N]/ha 
+  13 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  13 AUG  2,   17  214    283    282  WH  06 Maturity  
+  13 AUG  3,   17  215    284    283  WH  06 Maturity  
+  13 AUG  7,   17  219    288    287  WH  16 Harvest   
+  13 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     7191. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  14 OCT 24,   16  298      1      0  WH                Planting       
+  14 OCT 24,   16  298      1      0  WH  08 Sowing    
+  14 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  14 OCT 26,   16  300      3      2  WH  09 Germinate 
+  14 NOV  7,   16  312     15     14  WH  01 Emergence 
+  14 FEB  4,   17  035    104    103  WH                Fertilizer         60. kg[N]/ha 
+  14 MAY 10,   17  130    199    198  WH  02 End Juveni
+  14 MAY 24,   17  144    213    212  WH                Fertilizer         80. kg[N]/ha 
+  14 MAY 30,   17  150    219    218  WH  03 End Veg   
+  14 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  14 JUN 13,   17  164    233    232  WH                Fertilizer         40. kg[N]/ha 
+  14 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  14 AUG  2,   17  214    283    282  WH  06 Maturity  
+  14 AUG  3,   17  215    284    283  WH  06 Maturity  
+  14 AUG  7,   17  219    288    287  WH  16 Harvest   
+  14 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     6831. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  15 OCT 24,   16  298      1      0  WH                Planting       
+  15 OCT 24,   16  298      1      0  WH  08 Sowing    
+  15 OCT 24,   16  298      1      0  WH                Tillage            4.0 cm
+  15 OCT 26,   16  300      3      2  WH  09 Germinate 
+  15 NOV  7,   16  312     15     14  WH  01 Emergence 
+  15 MAY 10,   17  130    199    198  WH  02 End Juveni
+  15 MAY 30,   17  150    219    218  WH  03 End Veg   
+  15 JUN 12,   17  163    232    231  WH  04 End Ear Gr
+  15 JUN 23,   17  174    243    242  WH  05 Beg Gr Fil
+  15 AUG  2,   17  214    283    282  WH  06 Maturity  
+  15 AUG  3,   17  215    284    283  WH  06 Maturity  
+  15 AUG  7,   17  219    288    287  WH  16 Harvest   
+  15 AUG  7,   17  219    288    287  WH                End simulation 
+                                             100.0 % yield harvested     3169. kg/ha
+                                               0.0 % by-product harv        0. kg/ha
+ 

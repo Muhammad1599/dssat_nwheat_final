@@ -1,0 +1,1473 @@
+"experiment_ID","experiment_year","treatment_number","treatment_name","plot_id","plot_geocoord_x","plot_geocoord_y","plot_geocoord_system","replicate_number","crop_id","irrigation_level","org_materials_applic_lev","treatment_comments","genotype_level","field_level","initial_conditions_level","planting_level","fertilizer_level","chemical_applic_level","tillage_level","harvest_operations_level"
+"LTFE_Duernast","2015",1,"1","3",4477222.539,5362884.698,"GK",2,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2015",1,"1","17",4477208.074,5362874.079,"GK",1,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2015",1,"1","39",4477188.345,5362895.298,"GK",4,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2015",1,"1","53",4477173.903,5362884.679,"GK",3,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2015",2,"2","5",4477221.183,5362892.666,"GK",3,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2015",2,"2","19",4477206.752,5362882.047,"GK",2,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2015",2,"2","33",4477192.281,5362871.438,"GK",1,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2015",2,"2","55",4477172.587,5362892.641,"GK",4,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2015",3,"3","7",4477219.846,5362900.613,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2015",3,"3","21",4477205.414,5362890.009,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2015",3,"3","35",4477190.967,5362879.399,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2015",3,"3","49",4477176.548,5362868.781,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2015",4,"4","9",4477215.976,5362875.403,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2015",4,"4","31",4477196.218,5362896.629,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2015",4,"4","45",4477181.791,5362886.018,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2015",4,"4","59",4477167.318,5362875.394,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2015",5,"5","11",4477214.638,5362883.371,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2015",5,"5","25",4477200.186,5362872.762,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2015",5,"5","47",4477180.475,5362893.979,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2015",5,"5","61",4477166.011,5362883.364,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2015",6,"6","13",4477213.284,5362891.333,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2015",6,"6","27",4477198.856,5362880.722,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2015",6,"6","41",4477184.388,5362870.112,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2015",6,"6","63",4477164.695,5362891.325,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2015",7,"7","15",4477211.968,5362899.278,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2015",7,"7","29",4477197.533,5362888.668,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2015",7,"7","43",4477183.065,5362878.064,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2015",7,"7","57",4477168.657,5362867.468,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2015",8,"8","4",4477221.863,5362888.676,"GK",2,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2015",8,"8","18",4477207.419,5362878.064,"GK",1,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2015",8,"8","40",4477187.659,5362899.308,"GK",4,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2015",8,"8","54",4477173.247,5362888.684,"GK",3,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2015",9,"9","6",4477220.505,5362896.656,"GK",3,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2015",9,"9","20",4477206.067,5362886.033,"GK",2,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2015",9,"9","34",4477191.618,5362875.419,"GK",1,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2015",9,"9","56",4477171.901,5362896.651,"GK",4,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2015",10,"10","8",4477219.16,5362904.623,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2015",10,"10","22",4477204.757,5362893.998,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2015",10,"10","36",4477190.282,5362883.377,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2015",10,"10","50",4477175.879,5362872.762,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2015",11,"11","10",4477215.305,5362879.388,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2015",11,"11","32",4477195.532,5362900.639,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2015",11,"11","46",4477181.134,5362890.023,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2015",11,"11","60",4477166.665,5362879.372,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2015",12,"12","12",4477213.961,5362887.357,"GK",2,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2015",12,"12","26",4477199.5,5362876.748,"GK",1,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2015",12,"12","48",4477179.789,5362897.989,"GK",4,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2015",12,"12","62",4477165.355,5362887.369,"GK",3,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2015",13,"13","14",4477212.627,5362895.322,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2015",13,"13","28",4477198.171,5362884.708,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2015",13,"13","42",4477183.734,5362874.104,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2015",13,"13","64",4477164.01,5362895.335,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2015",14,"14","16",4477211.282,5362903.288,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2015",14,"14","30",4477196.877,5362892.673,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2015",14,"14","44",4477182.404,5362882.035,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2015",14,"14","58",4477167.991,5362871.434,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2015",15,"15","1",4477223.878,5362876.753,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","2",4477223.21,5362880.723,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","23",4477204.098,5362897.954,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","24",4477203.412,5362901.964,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","37",4477189.66,5362887.336,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","38",4477189.004,5362891.341,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","51",4477175.235,5362876.684,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2015",15,"15","52",4477174.548,5362880.712,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2016",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2016",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2016",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2016",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2016",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2016",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2016",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2016",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2016",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2016",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2016",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2016",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2016",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2016",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2016",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2016",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2016",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2016",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2016",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2016",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2016",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2016",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2016",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2016",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2016",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2016",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2016",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2016",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2016",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2016",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2016",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2016",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2016",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2016",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2016",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2016",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2016",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2016",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2016",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2016",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2016",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2016",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2016",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2016",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2016",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2016",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2016",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2016",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2016",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2016",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2016",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2016",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2016",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2016",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2016",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2016",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2016",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",1,"1","3",4477222.539,5362884.698,"GK",2,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2017",1,"1","17",4477208.074,5362874.079,"GK",1,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2017",1,"1","39",4477188.345,5362895.298,"GK",4,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2017",1,"1","53",4477173.903,5362884.679,"GK",3,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2017",2,"2","5",4477221.183,5362892.666,"GK",3,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2017",2,"2","19",4477206.752,5362882.047,"GK",2,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2017",2,"2","33",4477192.281,5362871.438,"GK",1,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2017",2,"2","55",4477172.587,5362892.641,"GK",4,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2017",3,"3","7",4477219.846,5362900.613,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2017",3,"3","21",4477205.414,5362890.009,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2017",3,"3","35",4477190.967,5362879.399,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2017",3,"3","49",4477176.548,5362868.781,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2017",4,"4","9",4477215.976,5362875.403,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2017",4,"4","31",4477196.218,5362896.629,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2017",4,"4","45",4477181.791,5362886.018,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2017",4,"4","59",4477167.318,5362875.394,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2017",5,"5","11",4477214.638,5362883.371,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2017",5,"5","25",4477200.186,5362872.762,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2017",5,"5","47",4477180.475,5362893.979,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2017",5,"5","61",4477166.011,5362883.364,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2017",6,"6","13",4477213.284,5362891.333,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2017",6,"6","27",4477198.856,5362880.722,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2017",6,"6","41",4477184.388,5362870.112,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2017",6,"6","63",4477164.695,5362891.325,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2017",7,"7","15",4477211.968,5362899.278,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2017",7,"7","29",4477197.533,5362888.668,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2017",7,"7","43",4477183.065,5362878.064,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2017",7,"7","57",4477168.657,5362867.468,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2017",8,"8","4",4477221.863,5362888.676,"GK",2,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2017",8,"8","18",4477207.419,5362878.064,"GK",1,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2017",8,"8","40",4477187.659,5362899.308,"GK",4,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2017",8,"8","54",4477173.247,5362888.684,"GK",3,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2017",9,"9","6",4477220.505,5362896.656,"GK",3,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2017",9,"9","20",4477206.067,5362886.033,"GK",2,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2017",9,"9","34",4477191.618,5362875.419,"GK",1,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2017",9,"9","56",4477171.901,5362896.651,"GK",4,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2017",10,"10","8",4477219.16,5362904.623,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2017",10,"10","22",4477204.757,5362893.998,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2017",10,"10","36",4477190.282,5362883.377,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2017",10,"10","50",4477175.879,5362872.762,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2017",11,"11","10",4477215.305,5362879.388,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2017",11,"11","32",4477195.532,5362900.639,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2017",11,"11","46",4477181.134,5362890.023,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2017",11,"11","60",4477166.665,5362879.372,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2017",12,"12","12",4477213.961,5362887.357,"GK",2,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2017",12,"12","26",4477199.5,5362876.748,"GK",1,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2017",12,"12","48",4477179.789,5362897.989,"GK",4,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2017",12,"12","62",4477165.355,5362887.369,"GK",3,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2017",13,"13","14",4477212.627,5362895.322,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2017",13,"13","28",4477198.171,5362884.708,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2017",13,"13","42",4477183.734,5362874.104,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2017",13,"13","64",4477164.01,5362895.335,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2017",14,"14","16",4477211.282,5362903.288,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2017",14,"14","30",4477196.877,5362892.673,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2017",14,"14","44",4477182.404,5362882.035,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2017",14,"14","58",4477167.991,5362871.434,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2017",15,"15","1",4477223.878,5362876.753,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","2",4477223.21,5362880.723,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","23",4477204.098,5362897.954,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","24",4477203.412,5362901.964,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","37",4477189.66,5362887.336,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","38",4477189.004,5362891.341,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","51",4477175.235,5362876.684,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2017",15,"15","52",4477174.548,5362880.712,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,NA,0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,NA,0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,NA,0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,NA,0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",4,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",3,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",2,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,2,1,1,1,0,1
+"LTFE_Duernast","2018",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,NA,0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",4,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",3,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",2,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,2,1,11,1,0,1
+"LTFE_Duernast","2018",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",4,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",3,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",2,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,2,1,13,1,0,1
+"LTFE_Duernast","2018",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",4,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",3,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",2,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,2,1,5,1,0,1
+"LTFE_Duernast","2018",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,NA,0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",4,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",3,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",2,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,2,1,9,1,0,1
+"LTFE_Duernast","2018",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,NA,0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,3,1,0,1
+"LTFE_Duernast","2018",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,NA,0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",4,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",3,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",2,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,2,1,7,1,0,1
+"LTFE_Duernast","2018",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,NA,0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,NA,0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,NA,0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,NA,0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",4,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",3,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",2,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,2,1,2,1,0,1
+"LTFE_Duernast","2018",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,NA,0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",4,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",3,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",2,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,2,1,12,1,0,1
+"LTFE_Duernast","2018",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",4,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",3,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",2,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,2,1,14,1,0,1
+"LTFE_Duernast","2018",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",4,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",3,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",2,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,2,1,6,1,0,1
+"LTFE_Duernast","2018",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,NA,0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",4,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",3,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",2,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,2,1,10,1,0,1
+"LTFE_Duernast","2018",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,NA,0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",4,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",3,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",2,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,2,1,4,1,0,1
+"LTFE_Duernast","2018",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,NA,0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",4,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",3,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",2,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,2,1,8,1,0,1
+"LTFE_Duernast","2018",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,NA,0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",4,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",3,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",2,1,1,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,2,1,15,1,0,1
+"LTFE_Duernast","2018",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,0,1
+"LTFE_Duernast","2019",1,"1","3",4477222.539,5362884.698,"GK",2,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2019",1,"1","17",4477208.074,5362874.079,"GK",1,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2019",1,"1","39",4477188.345,5362895.298,"GK",4,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2019",1,"1","53",4477173.903,5362884.679,"GK",3,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2019",2,"2","5",4477221.183,5362892.666,"GK",3,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2019",2,"2","19",4477206.752,5362882.047,"GK",2,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2019",2,"2","33",4477192.281,5362871.438,"GK",1,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2019",2,"2","55",4477172.587,5362892.641,"GK",4,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2019",3,"3","7",4477219.846,5362900.613,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2019",3,"3","21",4477205.414,5362890.009,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2019",3,"3","35",4477190.967,5362879.399,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2019",3,"3","49",4477176.548,5362868.781,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2019",4,"4","9",4477215.976,5362875.403,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2019",4,"4","31",4477196.218,5362896.629,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2019",4,"4","45",4477181.791,5362886.018,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2019",4,"4","59",4477167.318,5362875.394,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2019",5,"5","11",4477214.638,5362883.371,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2019",5,"5","25",4477200.186,5362872.762,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2019",5,"5","47",4477180.475,5362893.979,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2019",5,"5","61",4477166.011,5362883.364,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2019",6,"6","13",4477213.284,5362891.333,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2019",6,"6","27",4477198.856,5362880.722,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2019",6,"6","41",4477184.388,5362870.112,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2019",6,"6","63",4477164.695,5362891.325,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2019",7,"7","15",4477211.968,5362899.278,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2019",7,"7","29",4477197.533,5362888.668,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2019",7,"7","43",4477183.065,5362878.064,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2019",7,"7","57",4477168.657,5362867.468,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2019",8,"8","4",4477221.863,5362888.676,"GK",2,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2019",8,"8","18",4477207.419,5362878.064,"GK",1,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2019",8,"8","40",4477187.659,5362899.308,"GK",4,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2019",8,"8","54",4477173.247,5362888.684,"GK",3,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2019",9,"9","6",4477220.505,5362896.656,"GK",3,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2019",9,"9","20",4477206.067,5362886.033,"GK",2,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2019",9,"9","34",4477191.618,5362875.419,"GK",1,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2019",9,"9","56",4477171.901,5362896.651,"GK",4,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2019",10,"10","8",4477219.16,5362904.623,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2019",10,"10","22",4477204.757,5362893.998,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2019",10,"10","36",4477190.282,5362883.377,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2019",10,"10","50",4477175.879,5362872.762,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2019",11,"11","10",4477215.305,5362879.388,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2019",11,"11","32",4477195.532,5362900.639,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2019",11,"11","46",4477181.134,5362890.023,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2019",11,"11","60",4477166.665,5362879.372,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2019",12,"12","12",4477213.961,5362887.357,"GK",2,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2019",12,"12","26",4477199.5,5362876.748,"GK",1,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2019",12,"12","48",4477179.789,5362897.989,"GK",4,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2019",12,"12","62",4477165.355,5362887.369,"GK",3,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2019",13,"13","14",4477212.627,5362895.322,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2019",13,"13","28",4477198.171,5362884.708,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2019",13,"13","42",4477183.734,5362874.104,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2019",13,"13","64",4477164.01,5362895.335,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2019",14,"14","16",4477211.282,5362903.288,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2019",14,"14","30",4477196.877,5362892.673,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2019",14,"14","44",4477182.404,5362882.035,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2019",14,"14","58",4477167.991,5362871.434,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2019",15,"15","1",4477223.878,5362876.753,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","2",4477223.21,5362880.723,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","23",4477204.098,5362897.954,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","24",4477203.412,5362901.964,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","37",4477189.66,5362887.336,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","38",4477189.004,5362891.341,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","51",4477175.235,5362876.684,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2019",15,"15","52",4477174.548,5362880.712,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2020",1,"1","3",4477222.539,5362884.698,"GK",2,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",1,"1","17",4477208.074,5362874.079,"GK",1,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",1,"1","39",4477188.345,5362895.298,"GK",4,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",1,"1","53",4477173.903,5362884.679,"GK",3,"WHT",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",2,"2","5",4477221.183,5362892.666,"GK",3,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",2,"2","19",4477206.752,5362882.047,"GK",2,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",2,"2","33",4477192.281,5362871.438,"GK",1,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",2,"2","55",4477172.587,5362892.641,"GK",4,"WHT",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",3,"3","7",4477219.846,5362900.613,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",3,"3","21",4477205.414,5362890.009,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",3,"3","35",4477190.967,5362879.399,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",3,"3","49",4477176.548,5362868.781,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",4,"4","9",4477215.976,5362875.403,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",4,"4","31",4477196.218,5362896.629,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",4,"4","45",4477181.791,5362886.018,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",4,"4","59",4477167.318,5362875.394,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",5,"5","11",4477214.638,5362883.371,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",5,"5","25",4477200.186,5362872.762,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",5,"5","47",4477180.475,5362893.979,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",5,"5","61",4477166.011,5362883.364,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",6,"6","13",4477213.284,5362891.333,"GK",3,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",6,"6","27",4477198.856,5362880.722,"GK",2,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",6,"6","41",4477184.388,5362870.112,"GK",1,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",6,"6","63",4477164.695,5362891.325,"GK",4,"WHT",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",7,"7","15",4477211.968,5362899.278,"GK",4,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",7,"7","29",4477197.533,5362888.668,"GK",3,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",7,"7","43",4477183.065,5362878.064,"GK",2,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",7,"7","57",4477168.657,5362867.468,"GK",1,"WHT",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",8,"8","4",4477221.863,5362888.676,"GK",2,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",8,"8","18",4477207.419,5362878.064,"GK",1,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",8,"8","40",4477187.659,5362899.308,"GK",4,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",8,"8","54",4477173.247,5362888.684,"GK",3,"WHT",0,0,"Düngung hoch, Harnstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",9,"9","6",4477220.505,5362896.656,"GK",3,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",9,"9","20",4477206.067,5362886.033,"GK",2,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",9,"9","34",4477191.618,5362875.419,"GK",1,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",9,"9","56",4477171.901,5362896.651,"GK",4,"WHT",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",10,"10","8",4477219.16,5362904.623,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",10,"10","22",4477204.757,5362893.998,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",10,"10","36",4477190.282,5362883.377,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",10,"10","50",4477175.879,5362872.762,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",11,"11","10",4477215.305,5362879.388,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",11,"11","32",4477195.532,5362900.639,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",11,"11","46",4477181.134,5362890.023,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",11,"11","60",4477166.665,5362879.372,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",12,"12","12",4477213.961,5362887.357,"GK",2,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",12,"12","26",4477199.5,5362876.748,"GK",1,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",12,"12","48",4477179.789,5362897.989,"GK",4,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",12,"12","62",4477165.355,5362887.369,"GK",3,"WHT",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",13,"13","14",4477212.627,5362895.322,"GK",3,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",13,"13","28",4477198.171,5362884.708,"GK",2,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",13,"13","42",4477183.734,5362874.104,"GK",1,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",13,"13","64",4477164.01,5362895.335,"GK",4,"WHT",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",14,"14","16",4477211.282,5362903.288,"GK",4,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",14,"14","30",4477196.877,5362892.673,"GK",3,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",14,"14","44",4477182.404,5362882.035,"GK",2,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",14,"14","58",4477167.991,5362871.434,"GK",1,"WHT",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","1",4477223.878,5362876.753,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","2",4477223.21,5362880.723,"GK",1,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","23",4477204.098,5362897.954,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","24",4477203.412,5362901.964,"GK",4,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","37",4477189.66,5362887.336,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","38",4477189.004,5362891.341,"GK",3,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","51",4477175.235,5362876.684,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2020",15,"15","52",4477174.548,5362880.712,"GK",2,"WHT",0,0,"Kontrolle, keine Düngung",1,1,1,1,0,1,1,1
+"LTFE_Duernast","2021",1,"1","3",4477222.539,5362884.698,"GK",2,"BAR",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2021",1,"1","17",4477208.074,5362874.079,"GK",1,"BAR",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2021",1,"1","39",4477188.345,5362895.298,"GK",4,"BAR",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2021",1,"1","53",4477173.903,5362884.679,"GK",3,"BAR",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2021",2,"2","5",4477221.183,5362892.666,"GK",3,"BAR",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2021",2,"2","19",4477206.752,5362882.047,"GK",2,"BAR",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2021",2,"2","33",4477192.281,5362871.438,"GK",1,"BAR",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2021",2,"2","55",4477172.587,5362892.641,"GK",4,"BAR",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2021",3,"3","7",4477219.846,5362900.613,"GK",4,"BAR",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2021",3,"3","21",4477205.414,5362890.009,"GK",3,"BAR",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2021",3,"3","35",4477190.967,5362879.399,"GK",2,"BAR",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2021",3,"3","49",4477176.548,5362868.781,"GK",1,"BAR",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2021",4,"4","9",4477215.976,5362875.403,"GK",1,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2021",4,"4","31",4477196.218,5362896.629,"GK",4,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2021",4,"4","45",4477181.791,5362886.018,"GK",3,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2021",4,"4","59",4477167.318,5362875.394,"GK",2,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2021",5,"5","11",4477214.638,5362883.371,"GK",2,"BAR",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2021",5,"5","25",4477200.186,5362872.762,"GK",1,"BAR",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2021",5,"5","47",4477180.475,5362893.979,"GK",4,"BAR",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2021",5,"5","61",4477166.011,5362883.364,"GK",3,"BAR",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2021",6,"6","13",4477213.284,5362891.333,"GK",3,"BAR",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2021",6,"6","27",4477198.856,5362880.722,"GK",2,"BAR",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2021",6,"6","41",4477184.388,5362870.112,"GK",1,"BAR",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2021",6,"6","63",4477164.695,5362891.325,"GK",4,"BAR",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2021",7,"7","15",4477211.968,5362899.278,"GK",4,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2021",7,"7","29",4477197.533,5362888.668,"GK",3,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2021",7,"7","43",4477183.065,5362878.064,"GK",2,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2021",7,"7","57",4477168.657,5362867.468,"GK",1,"BAR",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2021",8,"8","4",4477221.863,5362888.676,"GK",2,"BAR",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2021",8,"8","18",4477207.419,5362878.064,"GK",1,"BAR",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2021",8,"8","40",4477187.659,5362899.308,"GK",4,"BAR",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2021",8,"8","54",4477173.247,5362888.684,"GK",3,"BAR",0,0,"Düngung hoch, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2021",9,"9","6",4477220.505,5362896.656,"GK",3,"BAR",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2021",9,"9","20",4477206.067,5362886.033,"GK",2,"BAR",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2021",9,"9","34",4477191.618,5362875.419,"GK",1,"BAR",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2021",9,"9","56",4477171.901,5362896.651,"GK",4,"BAR",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2021",10,"10","8",4477219.16,5362904.623,"GK",4,"BAR",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2021",10,"10","22",4477204.757,5362893.998,"GK",3,"BAR",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2021",10,"10","36",4477190.282,5362883.377,"GK",2,"BAR",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2021",10,"10","50",4477175.879,5362872.762,"GK",1,"BAR",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2021",11,"11","10",4477215.305,5362879.388,"GK",1,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2021",11,"11","32",4477195.532,5362900.639,"GK",4,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2021",11,"11","46",4477181.134,5362890.023,"GK",3,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2021",11,"11","60",4477166.665,5362879.372,"GK",2,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2021",12,"12","12",4477213.961,5362887.357,"GK",2,"BAR",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2021",12,"12","26",4477199.5,5362876.748,"GK",1,"BAR",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2021",12,"12","48",4477179.789,5362897.989,"GK",4,"BAR",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2021",12,"12","62",4477165.355,5362887.369,"GK",3,"BAR",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2021",13,"13","14",4477212.627,5362895.322,"GK",3,"BAR",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2021",13,"13","28",4477198.171,5362884.708,"GK",2,"BAR",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2021",13,"13","42",4477183.734,5362874.104,"GK",1,"BAR",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2021",13,"13","64",4477164.01,5362895.335,"GK",4,"BAR",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2021",14,"14","16",4477211.282,5362903.288,"GK",4,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2021",14,"14","30",4477196.877,5362892.673,"GK",3,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2021",14,"14","44",4477182.404,5362882.035,"GK",2,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2021",14,"14","58",4477167.991,5362871.434,"GK",1,"BAR",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2021",15,"15","1",4477223.878,5362876.753,"GK",1,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","2",4477223.21,5362880.723,"GK",1,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","23",4477204.098,5362897.954,"GK",4,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","24",4477203.412,5362901.964,"GK",4,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","37",4477189.66,5362887.336,"GK",3,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","38",4477189.004,5362891.341,"GK",3,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","51",4477175.235,5362876.684,"GK",2,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2021",15,"15","52",4477174.548,5362880.712,"GK",2,"BAR",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",1,"1","3",4477222.539,5362884.698,"GK",2,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2022",1,"1","17",4477208.074,5362874.079,"GK",1,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2022",1,"1","39",4477188.345,5362895.298,"GK",4,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2022",1,"1","53",4477173.903,5362884.679,"GK",3,"MAZ",0,0,"Düngung niedrig, Harnstoff",1,1,1,1,1,1,1,1
+"LTFE_Duernast","2022",2,"2","5",4477221.183,5362892.666,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2022",2,"2","19",4477206.752,5362882.047,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2022",2,"2","33",4477192.281,5362871.438,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2022",2,"2","55",4477172.587,5362892.641,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammoniumsulfatsalpeter",1,1,1,1,11,1,1,1
+"LTFE_Duernast","2022",3,"3","7",4477219.846,5362900.613,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2022",3,"3","21",4477205.414,5362890.009,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2022",3,"3","35",4477190.967,5362879.399,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2022",3,"3","49",4477176.548,5362868.781,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Sulfat mit Inhibitor",1,1,1,1,13,1,1,1
+"LTFE_Duernast","2022",4,"4","9",4477215.976,5362875.403,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2022",4,"4","31",4477196.218,5362896.629,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2022",4,"4","45",4477181.791,5362886.018,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2022",4,"4","59",4477167.318,5362875.394,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 1",1,1,1,1,5,1,1,1
+"LTFE_Duernast","2022",5,"5","11",4477214.638,5362883.371,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2022",5,"5","25",4477200.186,5362872.762,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2022",5,"5","47",4477180.475,5362893.979,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2022",5,"5","61",4477166.011,5362883.364,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkstickstoff",1,1,1,1,9,1,1,1
+"LTFE_Duernast","2022",6,"6","13",4477213.284,5362891.333,"GK",3,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2022",6,"6","27",4477198.856,5362880.722,"GK",2,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2022",6,"6","41",4477184.388,5362870.112,"GK",1,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2022",6,"6","63",4477164.695,5362891.325,"GK",4,"MAZ",0,0,"Düngung niedrig, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,3,1,1,1
+"LTFE_Duernast","2022",7,"7","15",4477211.968,5362899.278,"GK",4,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2022",7,"7","29",4477197.533,5362888.668,"GK",3,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2022",7,"7","43",4477183.065,5362878.064,"GK",2,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2022",7,"7","57",4477168.657,5362867.468,"GK",1,"MAZ",0,0,"Düngung niedrig, Kalkammonsalpeter 2",1,1,1,1,7,1,1,1
+"LTFE_Duernast","2022",8,"8","4",4477221.863,5362888.676,"GK",2,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2022",8,"8","18",4477207.419,5362878.064,"GK",1,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2022",8,"8","40",4477187.659,5362899.308,"GK",4,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2022",8,"8","54",4477173.247,5362888.684,"GK",3,"MAZ",0,0,"Düngung hoch, Harnstoff",1,1,1,1,2,1,1,1
+"LTFE_Duernast","2022",9,"9","6",4477220.505,5362896.656,"GK",3,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2022",9,"9","20",4477206.067,5362886.033,"GK",2,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2022",9,"9","34",4477191.618,5362875.419,"GK",1,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2022",9,"9","56",4477171.901,5362896.651,"GK",4,"MAZ",0,0,"Düngung hoch, Ammoniumsulfatsalpeter",1,1,1,1,12,1,1,1
+"LTFE_Duernast","2022",10,"10","8",4477219.16,5362904.623,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2022",10,"10","22",4477204.757,5362893.998,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2022",10,"10","36",4477190.282,5362883.377,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2022",10,"10","50",4477175.879,5362872.762,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Sulfat mit Inhibitor",1,1,1,1,14,1,1,1
+"LTFE_Duernast","2022",11,"11","10",4477215.305,5362879.388,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2022",11,"11","32",4477195.532,5362900.639,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2022",11,"11","46",4477181.134,5362890.023,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2022",11,"11","60",4477166.665,5362879.372,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 1",1,1,1,1,6,1,1,1
+"LTFE_Duernast","2022",12,"12","12",4477213.961,5362887.357,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2022",12,"12","26",4477199.5,5362876.748,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2022",12,"12","48",4477179.789,5362897.989,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2022",12,"12","62",4477165.355,5362887.369,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkstickstoff",1,1,1,1,10,1,1,1
+"LTFE_Duernast","2022",13,"13","14",4477212.627,5362895.322,"GK",3,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2022",13,"13","28",4477198.171,5362884.708,"GK",2,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2022",13,"13","42",4477183.734,5362874.104,"GK",1,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2022",13,"13","64",4477164.01,5362895.335,"GK",4,"MAZ",0,0,"Düngung hoch, Ammonium-Nitrat-Harnstoff-Lösung",1,1,1,1,4,1,1,1
+"LTFE_Duernast","2022",14,"14","16",4477211.282,5362903.288,"GK",4,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2022",14,"14","30",4477196.877,5362892.673,"GK",3,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2022",14,"14","44",4477182.404,5362882.035,"GK",2,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2022",14,"14","58",4477167.991,5362871.434,"GK",1,"MAZ",0,0,"Düngung hoch, Kalkammonsalpeter 2",1,1,1,1,8,1,1,1
+"LTFE_Duernast","2022",15,"15","1",4477223.878,5362876.753,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","2",4477223.21,5362880.723,"GK",1,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","23",4477204.098,5362897.954,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","24",4477203.412,5362901.964,"GK",4,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","37",4477189.66,5362887.336,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","38",4477189.004,5362891.341,"GK",3,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","51",4477175.235,5362876.684,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1
+"LTFE_Duernast","2022",15,"15","52",4477174.548,5362880.712,"GK",2,"MAZ",0,0,"Kontrolle, keine Düngung",1,1,1,1,15,1,1,1

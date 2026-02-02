@@ -1,0 +1,496 @@
+*Soil Carbon Balance
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   1        : 1                         WHAPS048 TUDU1701    1
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  1   : 1                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309815.78
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1464.68
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311280.47
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2825.11
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                            -0.011
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   2        : 2                         WHAPS048 TUDU1701    2
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  2   : 2                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309815.47
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1479.88
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311295.34
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2810.25
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                            -0.005
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   3        : 3                         WHAPS048 TUDU1701    3
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  3   : 3                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309696.47
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1341.95
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311038.41
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 3067.21
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.022
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   4        : 4                         WHAPS048 TUDU1701    4
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  4   : 4                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309815.59
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1477.27
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311292.84
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2812.75
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                            -0.005
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   5        : 5                         WHAPS048 TUDU1701    5
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  5   : 5                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309833.62
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1521.05
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311354.69
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2750.91
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                             0.008
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   6        : 6                         WHAPS048 TUDU1701    6
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  6   : 6                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309814.75
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1481.07
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311295.81
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2809.75
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.56
+!   Balance                                                            -0.031
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   7        : 7                         WHAPS048 TUDU1701    7
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  7   : 7                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309825.28
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1547.27
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311372.56
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2733.07
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.041
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   8        : 8                         WHAPS048 TUDU1701    8
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  8   : 8                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309838.47
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1541.16
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311379.62
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2725.97
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                             0.002
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   9        : 9                         WHAPS048 TUDU1701    9
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  9   : 9                         WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309840.00
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1534.94
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311374.94
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2730.70
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.043
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  10        : 10                        WHAPS048 TUDU1701   10
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 10   : 10                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309697.75
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1335.94
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311033.69
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 3071.92
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                             0.013
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  11        : 11                        WHAPS048 TUDU1701   11
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 11   : 11                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309838.47
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1541.15
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311379.62
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2725.97
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.59
+!   Balance                                                             0.002
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  12        : 12                        WHAPS048 TUDU1701   12
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 12   : 12                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309839.00
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1538.74
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311377.75
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2727.87
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.028
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  13        : 13                        WHAPS048 TUDU1701   13
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 13   : 13                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309841.75
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1534.06
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311375.81
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2729.81
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.029
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  14        : 14                        WHAPS048 TUDU1701   14
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 14   : 14                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309850.53
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1446.24
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311296.78
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2808.92
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.69
+!   Balance                                                             0.105
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  15        : 15                        WHAPS048 TUDU1701   15
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 15   : 15                        WHAPS048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                  16-297              16-297
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              310025.59           309648.22
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                 4080.00             1498.19
+!   Surface Litter C                                 0.00                0.00
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          314105.59           311146.41
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                  0.00
+!   CO2-C emitted                                 2959.23
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               314105.59           314105.62
+!   Balance                                                             0.042

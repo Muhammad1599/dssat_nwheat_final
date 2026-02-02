@@ -1,0 +1,496 @@
+*WATER BALANCE OUTPUT FILE
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   1        : 1                         WHAPS048 TUDU1701    1
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  1   : 1                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    436.05
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  97.70
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.61
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         194.95
+!     Transpiration                            271.49
+!     Total evapotranspiration                 466.44
+!     Total potential evapotranspiration       621.65
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.998
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   2        : 2                         WHAPS048 TUDU1701    2
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  2   : 2                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    436.71
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  97.29
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.59
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         193.43
+!     Transpiration                            272.77
+!     Total evapotranspiration                 466.21
+!     Total potential evapotranspiration       621.26
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.998
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   3        : 3                         WHAPS048 TUDU1701    3
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  3   : 3                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    476.54
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                 109.96
+!     Tiledrain flow                             0.00
+!     Runoff                                    10.29
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         268.50
+!     Transpiration                            143.51
+!     Total evapotranspiration                 412.01
+!     Total potential evapotranspiration       646.48
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.998
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   4        : 4                         WHAPS048 TUDU1701    4
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  4   : 4                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    436.82
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  97.50
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.60
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         194.03
+!     Transpiration                            271.86
+!     Total evapotranspiration                 465.89
+!     Total potential evapotranspiration       621.40
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.996
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   5        : 5                         WHAPS048 TUDU1701    5
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  5   : 5                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    431.14
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  86.50
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.44
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         176.02
+!     Transpiration                            306.69
+!     Total evapotranspiration                 482.71
+!     Total potential evapotranspiration       616.60
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.003
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   6        : 6                         WHAPS048 TUDU1701    6
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  6   : 6                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    436.05
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  97.69
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.60
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         194.28
+!     Transpiration                            272.19
+!     Total evapotranspiration                 466.46
+!     Total potential evapotranspiration       621.48
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.999
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   7        : 7                         WHAPS048 TUDU1701    7
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  7   : 7                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    431.74
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  86.34
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.45
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         176.41
+!     Transpiration                            305.86
+!     Total evapotranspiration                 482.27
+!     Total potential evapotranspiration       616.69
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.999
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   8        : 8                         WHAPS048 TUDU1701    8
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  8   : 8                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    433.97
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  76.71
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.23
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         163.27
+!     Transpiration                            326.62
+!     Total evapotranspiration                 489.90
+!     Total potential evapotranspiration       613.61
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.003
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   9        : 9                         WHAPS048 TUDU1701    9
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  9   : 9                         WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    433.95
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  76.49
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.24
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         162.93
+!     Transpiration                            327.19
+!     Total evapotranspiration                 490.12
+!     Total potential evapotranspiration       613.54
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.005
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  10        : 10                        WHAPS048 TUDU1701   10
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 10   : 10                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    476.51
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                 109.96
+!     Tiledrain flow                             0.00
+!     Runoff                                    10.28
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         268.50
+!     Transpiration                            143.55
+!     Total evapotranspiration                 412.05
+!     Total potential evapotranspiration       646.48
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.997
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  11        : 11                        WHAPS048 TUDU1701   11
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 11   : 11                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    433.97
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  76.71
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.23
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         163.27
+!     Transpiration                            326.62
+!     Total evapotranspiration                 489.90
+!     Total potential evapotranspiration       613.61
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.003
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  12        : 12                        WHAPS048 TUDU1701   12
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 12   : 12                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    433.97
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  76.71
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.23
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         163.24
+!     Transpiration                            326.65
+!     Total evapotranspiration                 489.89
+!     Total potential evapotranspiration       613.60
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.002
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  13        : 13                        WHAPS048 TUDU1701   13
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 13   : 13                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    432.62
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  76.95
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.25
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         162.86
+!     Transpiration                            328.12
+!     Total evapotranspiration                 490.97
+!     Total potential evapotranspiration       613.57
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            46.001
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  14        : 14                        WHAPS048 TUDU1701   14
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 14   : 14                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    432.40
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                  86.34
+!     Tiledrain flow                             0.00
+!     Runoff                                     8.45
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         173.50
+!     Transpiration                            308.11
+!     Total evapotranspiration                 481.61
+!     Total potential evapotranspiration       616.16
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.998
+
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  15        : 15                        WHAPS048 TUDU1701   15
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 15   : 15                        WHAPS048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day   16/298    544.80
+!     Soil H20 (final) on Year/day   17/219    488.21
+!     Effective Irrigation                       0.00
+!     Precipitation                            510.00
+!     Water added with new mulch                 0.00
+!     Net lateral flow                           0.00
+!     Drainage                                 109.96
+!     Tiledrain flow                             0.00
+!     Runoff                                    10.66
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         272.32
+!     Transpiration                            127.66
+!     Total evapotranspiration                 399.98
+!     Total potential evapotranspiration       647.42
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                            45.998
+

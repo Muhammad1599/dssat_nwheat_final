@@ -1,0 +1,71 @@
+Initial Layers Calculation Summary for 2015 Wheat Data
+========================================================
+
+Parameters:
+-----------
+- Available Water: 90%
+- Total Nitrogen: 100 kg/ha
+- Soil Profile: DüRNast Long-Term Fertilization Experiment
+
+Calculated Results:
+-------------------
+Layer-by-layer values (ICBL = depth at bottom of layer in cm):
+
+Layer 1 (0-5 cm):
+  ICBL: 5 cm
+  SH2O: 0.2232 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Layer 2 (5-15 cm):
+  ICBL: 15 cm
+  SH2O: 0.2341 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Layer 3 (15-30 cm):
+  ICBL: 30 cm
+  SH2O: 0.2491 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Layer 4 (30-60 cm):
+  ICBL: 60 cm
+  SH2O: 0.2691 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Layer 5 (60-100 cm):
+  ICBL: 100 cm
+  SH2O: 0.2682 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Layer 6 (100-200 cm):
+  ICBL: 200 cm
+  SH2O: 0.2592 cm³/cm³
+  SNO3: 3.10 ppm
+  SNH4: 0.34 ppm
+
+Summary:
+--------
+- Number of layers: 6
+- Profile depth: 0-200 cm
+- Average SH2O: 0.2506 cm³/cm³
+- Uniform SNO3: 3.10 ppm (90% of total N)
+- Uniform SNH4: 0.34 ppm (10% of total N)
+
+Calculation Notes:
+------------------
+1. Water content (SH2O) varies by layer based on soil properties:
+   Formula: SH2O = SLLL + (90/100) × (SDUL - SLLL)
+   Where SLLL = wilting point, SDUL = field capacity
+
+2. Nitrogen is distributed uniformly:
+   - Total N: 100 kg/ha
+   - Split: 90% NO3⁻ (3.10 ppm), 10% NH4⁺ (0.34 ppm)
+   - Calculated from depth-weighted average bulk density: 1.45175 g/cm³
+
+3. These values are ready for use in DSSAT .WHX file INITIAL_CONDITIONS section
+
+

@@ -1,0 +1,241 @@
+================================================================================
+INITIAL CONDITIONS CALCULATION METHODOLOGY
+Duernast 2015 Spring Wheat - DSSAT N-Wheat Model
+================================================================================
+
+Document Purpose: This document explains how initial soil water and nitrogen
+                  values were calculated to achieve specific targets:
+                  - Water: 90% of field capacity (SDUL)
+                  - Nitrogen: 100 kg/ha total inorganic N
+
+Date Created: November 4, 2025
+File: input/TUDU1501.WHX
+Model: WHAPS048 (N-Wheat)
+
+
+================================================================================
+1. OBJECTIVES
+================================================================================
+
+Target Conditions:
+  - Initial soil water: 90% of field capacity (SDUL from soil file)
+  - Initial nitrogen: 100 kg/ha total inorganic N distributed across 6 layers
+  - Depth profile: 0-200 cm (6 layers: 0-5, 5-15, 15-30, 30-60, 60-100, 100-200 cm)
+
+
+================================================================================
+2. DATA SOURCES
+================================================================================
+
+2.1 Soil Profile File (DE.SOL)
+    - Source: DUERNAST2015/input/DE.SOL
+    - Key parameter: SDUL (Drained Upper Limit / Field Capacity)
+    - Bulk density (BD): Used for N calculations
+    - Layer depths: Variable (5, 10, 20, 30, 40, 50, 60, 70, 90, 110, 130, 150, 
+                              170, 190, 210 cm)
+
+2.2 Field Capacity Values (SDUL) from Soil File:
+    Layer 0-5 cm:   SDUL = 0.236 cm³/cm³
+    Layer 5-15 cm:  SDUL = 0.246 cm³/cm³  (approximated from 10 cm layer)
+    Layer 15-30 cm: SDUL = 0.252 cm³/cm³  (from 20 cm layer)
+    Layer 30-60 cm: SDUL = 0.262 cm³/cm³  (from 30 cm layer)
+    Layer 60-100 cm: SDUL = 0.276 cm³/cm³ (from 60 cm layer)
+    Layer 100-200 cm: SDUL = 0.275 cm³/cm³ (approximated from 110-190 cm layers)
+
+2.3 Bulk Density Values (BD) from Soil File:
+    Layer 0-5 cm:   BD = 1.29 g/cm³
+    Layer 5-15 cm:  BD = 1.30 g/cm³
+    Layer 15-30 cm: BD = 1.32 g/cm³
+    Layer 30-60 cm: BD = 1.34 g/cm³
+    Layer 60-100 cm: BD = 1.39 g/cm³
+    Layer 100-200 cm: BD = 1.40 g/cm³
+
+
+================================================================================
+3. WATER CALCULATION METHODOLOGY
+================================================================================
+
+3.1 Formula:
+    SH2O (initial water content) = SDUL × 0.90
+
+    Where:
+    - SH2O = Volumetric water content (cm³/cm³)
+    - SDUL = Field capacity from soil file (cm³/cm³)
+    - 0.90 = 90% of field capacity
+
+3.2 Calculation Steps:
+
+    Layer 0-5 cm:
+      SH2O = 0.236 × 0.90 = 0.2124 → 0.212 cm³/cm³
+
+    Layer 5-15 cm:
+      SH2O = 0.246 × 0.90 = 0.2214 → 0.221 cm³/cm³
+
+    Layer 15-30 cm:
+      SH2O = 0.252 × 0.90 = 0.2268 → 0.227 cm³/cm³
+
+    Layer 30-60 cm:
+      SH2O = 0.262 × 0.90 = 0.2358 → 0.236 cm³/cm³
+
+    Layer 60-100 cm:
+      SH2O = 0.276 × 0.90 = 0.2484 → 0.248 cm³/cm³
+
+    Layer 100-200 cm:
+      SH2O = 0.275 × 0.90 = 0.2475 → 0.248 cm³/cm³
+
+3.3 Verification:
+    Total water (mm) = Σ(SH2O × layer thickness × 10)
+    
+    Where:
+    - layer thickness in cm
+    - factor of 10 converts cm to mm (1 mm = 1 L/m²)
+    
+    Calculation:
+      0-5 cm:   0.212 × 5 × 10 = 10.6 mm
+      5-15 cm:  0.221 × 10 × 10 = 22.1 mm
+      15-30 cm: 0.227 × 15 × 10 = 34.1 mm
+      30-60 cm: 0.236 × 30 × 10 = 70.8 mm
+      60-100 cm: 0.248 × 40 × 10 = 99.2 mm
+      100-200 cm: 0.248 × 100 × 10 = 248.0 mm
+      ------------------------------------------
+      Total: 484.8 mm
+
+
+================================================================================
+4. NITROGEN CALCULATION METHODOLOGY
+================================================================================
+
+4.1 Target:
+    Total inorganic N = 100 kg/ha
+    Distributed across 6 layers with depth-varying concentrations
+
+4.2 Starting Point:
+    Previous values totaled 96.39 kg/ha
+    Required increase factor = 100 / 96.39 = 1.0374 (3.74% increase)
+
+4.3 Formula for N Concentration:
+    N (kg/ha) = SNH4/SNO3 (μgN/g) × BD (g/cm³) × layer thickness (cm) × 0.1
+    
+    Where:
+    - SNH4/SNO3 = Nitrogen concentration in μgN/g soil
+    - BD = Bulk density in g/cm³
+    - layer thickness = thickness of layer in cm
+    - 0.1 = Conversion factor (μgN/g × g/cm³ × cm × 0.1 = kg/ha)
+    
+    Conversion factor derivation:
+    - 1 μgN/g × 1 g/cm³ × 1 cm = 1 μgN/cm²
+    - 1 μgN/cm² × (1 kg/10⁹ μg) × (10⁸ cm²/ha) = 0.1 kg/ha
+
+4.4 Calculation Process:
+
+    Step 1: Determine proportional increase
+      Factor = 100 / 96.39 = 1.0374
+    
+    Step 2: Scale previous values
+      Previous SNH4 values: [2.0, 1.6, 1.3, 1.0, 0.8, 0.7]
+      Previous SNO3 values: [4.0, 3.5, 3.2, 3.0, 2.6, 2.3]
+      
+      New SNH4 = Previous × 1.0374
+      New SNO3 = Previous × 1.0374
+    
+    Step 3: Round to practical values
+      SNH4: [2.07, 1.66, 1.35, 1.04, 0.83, 0.73] → [2.1, 1.7, 1.3, 1.0, 0.8, 0.7]
+      SNO3: [4.15, 3.63, 3.32, 3.11, 2.70, 2.39] → [4.1, 3.6, 3.3, 3.1, 2.7, 2.4]
+
+4.5 Verification Calculation:
+
+    Layer 0-5 cm:
+      NH4-N = 2.1 × 1.29 × 5 × 0.1 = 1.35 kg/ha
+      NO3-N = 4.1 × 1.29 × 5 × 0.1 = 2.64 kg/ha
+    
+    Layer 5-15 cm:
+      NH4-N = 1.7 × 1.30 × 10 × 0.1 = 2.21 kg/ha
+      NO3-N = 3.6 × 1.30 × 10 × 0.1 = 4.68 kg/ha
+    
+    Layer 15-30 cm:
+      NH4-N = 1.3 × 1.32 × 15 × 0.1 = 2.57 kg/ha
+      NO3-N = 3.3 × 1.32 × 15 × 0.1 = 6.53 kg/ha
+    
+    Layer 30-60 cm:
+      NH4-N = 1.0 × 1.34 × 30 × 0.1 = 4.02 kg/ha
+      NO3-N = 3.1 × 1.34 × 30 × 0.1 = 12.46 kg/ha
+    
+    Layer 60-100 cm:
+      NH4-N = 0.8 × 1.39 × 40 × 0.1 = 4.45 kg/ha
+      NO3-N = 2.7 × 1.39 × 40 × 0.1 = 15.01 kg/ha
+    
+    Layer 100-200 cm:
+      NH4-N = 0.7 × 1.40 × 100 × 0.1 = 9.80 kg/ha
+      NO3-N = 2.4 × 1.40 × 100 × 0.1 = 33.60 kg/ha
+    
+    Totals:
+      Total NH4-N = 1.35 + 2.21 + 2.57 + 4.02 + 4.45 + 9.80 = 24.40 kg/ha
+      Total NO3-N = 2.64 + 4.68 + 6.53 + 12.46 + 15.01 + 33.60 = 74.92 kg/ha
+      Total Inorganic N = 24.40 + 74.92 = 99.32 kg/ha ≈ 100 kg/ha
+
+
+================================================================================
+5. FINAL VALUES IN TUDU1501.WHX
+================================================================================
+
+*INITIAL CONDITIONS
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 1    WH 15070  1200     0  1.00  1.00   -99  1500  0.90  0.00   100    15 Spring 2015
+@C  ICBL  SH2O  SNH4  SNO3
+ 1     5 0.212   2.1   4.1
+ 1    15 0.221   1.7   3.6
+ 1    30 0.227   1.3   3.3
+ 1    60 0.236   1.0   3.1
+ 1   100 0.248   0.8   2.7
+ 1   200 0.248   0.7   2.4
+
+Where:
+  ICBL = Layer bottom depth (cm)
+  SH2O = Volumetric water content (cm³/cm³) - 90% of field capacity
+  SNH4 = Ammonium nitrogen concentration (μgN/g soil)
+  SNO3 = Nitrate nitrogen concentration (μgN/g soil)
+
+
+================================================================================
+6. SUMMARY
+================================================================================
+
+6.1 Water Content:
+    - Method: 90% of field capacity (SDUL) for each layer
+    - Total: 484.8 mm
+    - Represents: Optimal moisture for spring planting (not saturated, not dry)
+
+6.2 Nitrogen Content:
+    - Method: Proportional scaling from previous values to reach 100 kg/ha
+    - Total: 99.32 kg/ha (within rounding error of 100 kg/ha target)
+    - Distribution: Higher in top layers (0-60 cm: ~50%), lower in deep layers
+    - Ratio: ~25% NH4-N, ~75% NO3-N (typical for agricultural soils)
+
+6.3 Rationale:
+    - 90% field capacity: Prevents waterlogging while maintaining adequate moisture
+    - 100 kg/ha N: Provides realistic initial N pool for unfertilized control treatment
+    - Depth distribution: Reflects typical soil N profile with higher concentrations
+      in surface layers where organic matter and root activity are concentrated
+
+
+================================================================================
+7. REFERENCES
+================================================================================
+
+Soil File: DUERNAST2015/input/DE.SOL
+Experiment File: DUERNAST2015/input/TUDU1501.WHX
+DSSAT Documentation: Soil Initial Conditions Format
+Model: WHAPS048 (N-Wheat)
+
+
+================================================================================
+END OF DOCUMENTATION
+================================================================================
+
+Document Version: 1.0
+Last Updated: November 4, 2025
+Calculated by: Automated workflow parameter optimization
+Verified: Total N = 99.32 kg/ha, Water = 484.8 mm (90% field capacity)
+
+================================================================================
+

@@ -1,0 +1,519 @@
+*WARNING DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   1        : 1                         WHAPS048 TUDU1701    1
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  1   : 1                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   2        : 2                         WHAPS048 TUDU1701    2
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  2   : 2                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 205
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   3        : 3                         WHAPS048 TUDU1701    3
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  3   : 3                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ FPLACE  YEAR DOY =   17  35
+ Invalid fertilizer data in experiment file.                                   
+ Fertilizer type: FE900 Generic fertilizer                                     
+ Amount N specified:     80.0 kg/ha                                            
+ Check DETAIL.CDE file for valid fertilizer types.                             
+ No N applied on this date.                                                    
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   4        : 4                         WHAPS048 TUDU1701    4
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  4   : 4                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 205
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 206
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   5        : 5                         WHAPS048 TUDU1701    5
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  5   : 5                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 187
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 189
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   6        : 6                         WHAPS048 TUDU1701    6
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  6   : 6                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 205
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   7        : 7                         WHAPS048 TUDU1701    7
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  7   : 7                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 190
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 191
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 205
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 206
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 208
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   8        : 8                         WHAPS048 TUDU1701    8
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  8   : 8                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 189
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   9        : 9                         WHAPS048 TUDU1701    9
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  9   : 9                         WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 189
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  10        : 10                        WHAPS048 TUDU1701   10
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 10   : 10                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ FPLACE  YEAR DOY =   17  35
+ Invalid fertilizer data in experiment file.                                   
+ Fertilizer type: FE900 Generic fertilizer                                     
+ Amount N specified:    120.0 kg/ha                                            
+ Check DETAIL.CDE file for valid fertilizer types.                             
+ No N applied on this date.                                                    
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  11        : 11                        WHAPS048 TUDU1701   11
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 11   : 11                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  12        : 12                        WHAPS048 TUDU1701   12
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 12   : 12                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 189
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 201
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 204
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  13        : 13                        WHAPS048 TUDU1701   13
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 13   : 13                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ NWGRNI  YEAR DOY =   17 190
+ pnout bound check >navl error                                                 
+
+ NWGRNI  YEAR DOY =   17 203
+ pnout bound check >navl error                                                 
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  14        : 14                        WHAPS048 TUDU1701   14
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 14   : 14                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  15        : 15                        WHAPS048 TUDU1701   15
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 15   : 15                        WHAPS048
+  
+
+ TILLAGE  YEAR DOY =   16 298
+ User-specified tillage depth greater than that specified by tillage implement.
+ Tillage operation date:   16 298                                              
+ TI024: Roller packer                                                          
+ User-specified depth = 10.0 cm                                                
+ Implement depth of      4.0 cm will be used.                                  
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  14 is unlikely:      9.5                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              
+
+ SOLORG  YEAR DOY =   16 298
+ The initialized C:N ratio of the soil organic                                 
+ matter (humus) in layer  15 is unlikely:      8.9                             
+ A C:N ratio of 10.0 will be used to calculate initial soil organic N.         
+ Please check your SOIL.SOL file.                                              

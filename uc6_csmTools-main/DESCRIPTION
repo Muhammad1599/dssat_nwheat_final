@@ -1,0 +1,58 @@
+Package: csmTools
+Title: Data Integration Utilities for Crop Modelers
+Version: 0.0.0.9000
+Author: Benjamin Leroy
+Maintainer: Benjamin Leroy <benjamin.leroy@tum.de>
+Authors@R: 
+    person("Benjamin", "Leroy", , "benjamin.leroy@tum.de", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6007-7948"))
+Description: The package provide a series of tools to extract, structure and integrate data from various sources (IoT platform, online databases, published datasets...) to compile validation datasets for process-based crop models. The current version is mainly helpful for streamlining data preparation for research applications with the DSSAT modeling framework (https://dssat.net) and uses the ICASA dictionary (https://github.com/DSSAT/ICASA-Dictionary) as its core annotation standards.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+SystemRequirements:
+    libudunits2-dev
+    default-jdk
+    libproj-dev
+    libgdal-dev
+Depends: 
+    R (>= 4.4.3)
+Imports:
+    DSSAT,
+    countrycode,
+    cropCalendars,
+    dataverse,
+    dplyr,
+    elevatr,
+    geosphere,
+    ggplot2,
+    glue,
+    httr,
+    jsonlite,
+    lubridate,
+    magrittr,
+    openxlsx2,
+    purrr,
+    rdwd,
+    rlang,
+    spsUtil,
+    stringr,
+    tibble,
+    tidygeocoder,
+    tidyr,
+    tidyselect,
+    units,
+    utils,
+    xml2,
+    zip,
+    zoo
+Remotes: 
+    AgMIP-GGCMI/cropCalendars,
+    brry/rdwd,
+    leroy-bml/DSSAT
+Suggests: 
+    testthat (>= 3.0.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Config/testthat/edition: 3

@@ -1,0 +1,449 @@
+*SOIL ORGANIC N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   1        : 1                         WHAPS048 TUDU1701    1
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  1   : 1                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16848.71
+!   Soil Litter N                                   91.80               58.84
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.56
+!   N mineralized                                                       59.49
+
+!   Total N balance                              16967.04            16967.04
+!   Balance                                                            -0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   2        : 2                         WHAPS048 TUDU1701    2
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  2   : 2                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16848.67
+!   Soil Litter N                                   91.80               59.29
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.56
+!   N mineralized                                                       59.07
+
+!   Total N balance                              16967.04            16967.04
+!   Balance                                                            -0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   3        : 3                         WHAPS048 TUDU1701    3
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  3   : 3                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16843.45
+!   Soil Litter N                                   91.80               55.11
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    1.92
+!   N mineralized                                                       67.84
+
+!   Total N balance                              16966.39            16966.39
+!   Balance                                                            -0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   4        : 4                         WHAPS048 TUDU1701    4
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  4   : 4                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16848.67
+!   Soil Litter N                                   91.80               59.21
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.56
+!   N mineralized                                                       59.15
+
+!   Total N balance                              16967.03            16967.03
+!   Balance                                                            -0.004
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:14
+
+*RUN   5        : 5                         WHAPS048 TUDU1701    5
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  5   : 5                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16849.72
+!   Soil Litter N                                   91.80               60.51
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.61
+!   N mineralized                                                       56.84
+
+!   Total N balance                              16967.08            16967.08
+!   Balance                                                            -0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   6        : 6                         WHAPS048 TUDU1701    6
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  6   : 6                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16848.66
+!   Soil Litter N                                   91.80               59.35
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.56
+!   N mineralized                                                       59.02
+
+!   Total N balance                              16967.03            16967.03
+!   Balance                                                            -0.004
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   7        : 7                         WHAPS048 TUDU1701    7
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  7   : 7                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16849.34
+!   Soil Litter N                                   91.80               61.28
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.61
+!   N mineralized                                                       56.46
+
+!   Total N balance                              16967.08            16967.08
+!   Balance                                                            -0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   8        : 8                         WHAPS048 TUDU1701    8
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  8   : 8                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16849.94
+!   Soil Litter N                                   91.80               61.06
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.65
+!   N mineralized                                                       56.12
+
+!   Total N balance                              16967.12            16967.13
+!   Balance                                                             0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN   9        : 9                         WHAPS048 TUDU1701    9
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT  9   : 9                         WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16850.00
+!   Soil Litter N                                   91.80               60.89
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.65
+!   N mineralized                                                       56.24
+
+!   Total N balance                              16967.13            16967.13
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  10        : 10                        WHAPS048 TUDU1701   10
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 10   : 10                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16843.50
+!   Soil Litter N                                   91.80               54.92
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    1.92
+!   N mineralized                                                       67.97
+
+!   Total N balance                              16966.39            16966.39
+!   Balance                                                            -0.004
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:15
+
+*RUN  11        : 11                        WHAPS048 TUDU1701   11
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 11   : 11                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16849.94
+!   Soil Litter N                                   91.80               61.06
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.65
+!   N mineralized                                                       56.12
+
+!   Total N balance                              16967.12            16967.13
+!   Balance                                                             0.002
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  12        : 12                        WHAPS048 TUDU1701   12
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 12   : 12                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16849.96
+!   Soil Litter N                                   91.80               61.00
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.65
+!   N mineralized                                                       56.17
+
+!   Total N balance                              16967.12            16967.12
+!   Balance                                                             0.000
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  13        : 13                        WHAPS048 TUDU1701   13
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 13   : 13                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16850.13
+!   Soil Litter N                                   91.80               60.90
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.65
+!   N mineralized                                                       56.10
+
+!   Total N balance                              16967.12            16967.12
+!   Balance                                                            -0.004
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  14        : 14                        WHAPS048 TUDU1701   14
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 14   : 14                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16850.39
+!   Soil Litter N                                   91.80               58.26
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    2.61
+!   N mineralized                                                       58.43
+
+!   Total N balance                              16967.08            16967.08
+!   Balance                                                            -0.004
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.5.000 -release  FEB 02, 2026 11:47:16
+
+*RUN  15        : 15                        WHAPS048 TUDU1701   15
+ MODEL          : WHAPS048 - Wheat
+ EXPERIMENT     : TUDU1701 WH
+ DATA PATH      :
+ TREATMENT 15   : 15                        WHAPS048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                  16/298              17/219
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 16872.67            16841.41
+!   Soil Litter N                                   91.80               59.69
+!   N in Surface Residue                             0.00                0.00
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                     0.00
+!   N immobilized                                    1.87
+!   N mineralized                                                       65.24
+
+!   Total N balance                              16966.34            16966.34
+!   Balance                                                            -0.002

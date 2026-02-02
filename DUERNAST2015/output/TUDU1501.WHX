@@ -1,0 +1,145 @@
+*EXP.DETAILS: TUDU1501
+
+! Dataset processed on 2025-09-19 with csmtools.
+*GENERAL
+@PEOPLE
+Kurt Heil; Urs Schmidhalter
+@ADDRESS
+-99
+@SITE
+DÜRNAST, Freising, Bayern, Deutschland; 11.69; 48.4; 470.63
+@ PAREA  PRNO  PLEN  PLDR  PLSP  PLAY HAREA  HRNO  HLEN  HARM.........
+    -99   -99   -99   -99   -99   -99   -99   -99   -99  -99          
+@NOTES
+ https://doi.org/10.20387/bonares-fgzk-4p92
+
+*TREATMENTS                        -------------FACTOR LEVELS------------
+@N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
+ 1 1 0 0 1                          1  1  0  1  1  0  2  0  1  1  0  1  1
+ 2 1 0 0 2                          1  1  0  1  1  0 11  0  1  1  0  1  1
+ 3 1 0 0 3                          1  1  0  1  1  0 13  0  1  1  0  1  1
+ 4 1 0 0 4                          1  1  0  1  1  0  5  0  1  1  0  1  1
+ 5 1 0 0 5                          1  1  0  1  1  0  9  0  1  1  0  1  1
+ 6 1 0 0 6                          1  1  0  1  1  0  3  0  1  1  0  1  1
+ 7 1 0 0 7                          1  1  0  1  1  0  6  0  1  1  0  1  1
+ 8 1 0 0 8                          1  1  0  1  1  0  1  0  1  1  0  1  1
+ 9 1 0 0 9                          1  1  0  1  1  0 12  0  1  1  0  1  1
+10 1 0 0 10                         1  1  0  1  1  0 14  0  1  1  0  1  1
+11 1 0 0 11                         1  1  0  1  1  0  8  0  1  1  0  1  1
+12 1 0 0 12                         1  1  0  1  1  0 10  0  1  1  0  1  1
+13 1 0 0 13                         1  1  0  1  1  0  4  0  1  1  0  1  1
+14 1 0 0 14                         1  1  0  1  1  0  7  0  1  1  0  1  1
+15 1 0 0 15                         1  1  0  1  1  0  0  0  1  1  0  1  1
+
+*CULTIVARS
+@C CR INGENO CNAME
+ 1 WH AW0005 Bacanora 88
+
+*FIELDS
+@L ID_FIELD WSTA....  FLSA  FLOB  FLDT  FLDD  FLDS  FLST SLTX  SLDP  ID_SOIL    FLNAME
+ 1 TUDU0001 TUDU1501   -99   -99   -99   -99   -99   -99 -99    -99  DE02157980 DÜRNAST
+@L ...........XCRD ...........YCRD .....ELEV .............AREA .SLEN .FLWR .SLAS FLHST FHDUR
+ 1       11.690532       48.403387     470.6               -99   -99   -99   -99   -99   -99
+
+*INITIAL CONDITIONS
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 1    WH 15070  1200     0  1.00  1.00   -99  1500  0.90  0.00   100    15 Spring 2015
+@C  ICBL  SH2O  SNH4  SNO3
+ 1     5 0.2232  0.34  3.10
+ 1    15 0.2341  0.34  3.10
+ 1    30 0.2491  0.34  3.10
+ 1    60 0.2691  0.34  3.10
+ 1   100 0.2682  0.34  3.10
+ 1   200 0.2592  0.34  3.10
+
+*PLANTING DETAILS
+@P PDATE EDATE  PPOP  PPOE  PLME  PLDS  PLRS  PLRD  PLDP  PLWT  PAGE  PENV  PLPH  SPRL                        PLNAME
+ 1 15077   -99 400.0 400.0     S     R  12.5     0   2.5   -99   -99   -99   -99     0                        Spring Wheat
+
+*TILLAGE AND ROTATIONS
+@T TDATE TIMPL  TDEP TNAME
+ 1 15077 TI024    10 Saatbettbereitung
+
+*FERTILIZERS (INORGANIC)
+@F FDATE  FMCD  FACD  FDEP  FAMN  FAMP  FAMK  FAMC  FAMO  FOCD FERNAME
+ 1 15098 FE005 AP001     0    80     0     0     0   -99   -99 Harnstoff
+ 1 15152 FE005 AP001     0    60     0     0     0   -99   -99 Harnstoff
+ 1 15183 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
+ 2 15098 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
+ 2 15152 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
+ 2 15183 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
+ 3 15098 FE010 AP001     0    40     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 3 15152 FE010 AP001     0    40     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 3 15183 FE010 AP001     0    40     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 4 15098 FE010 AP001     0    80     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 4 15152 FE010 AP001     0    60     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 4 15183 FE010 AP001     0    40     0     0     0   -99   -99 Ammon-Sulfat-Salpeter
+ 5 15098 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+ 5 15152 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+ 5 15183 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+ 6 15098 FE011 AP001     0    60     0     0    19   -99   -99 Kalkammonsalpeter
+ 6 15152 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+ 6 15183 FE011 AP001     0    20     0     0     6   -99   -99 Kalkammonsalpeter
+ 7 15098 FE011 AP001     0    60     0     0    19   -99   -99 Kalkammonsalpeter
+ 7 15152 FE011 AP001     0    80     0     0    25   -99   -99 Kalkammonsalpeter
+ 7 15183 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+ 8 15098 FE005 AP001     0    80     0     0    25   -99   -99 Harnstoff
+ 8 15152 FE005 AP001     0    60     0     0    19   -99   -99 Harnstoff
+ 8 15183 FE005 AP001     0    40     0     0    13   -99   -99 Harnstoff
+ 9 15098 FE050 AP001     0    60     0     0   118   -99   -99 Kalkstickstoff
+ 9 15152 FE050 AP001     0    60     0     0   118   -99   -99 Kalkstickstoff
+ 9 15183 FE050 AP001     0     0     0     0     0   -99   -99 Kalkstickstoff
+10 15098 FE050 AP001     0    80     0     0   157   -99   -99 Kalkstickstoff
+10 15152 FE050 AP001     0    60     0     0   118   -99   -99 Kalkstickstoff
+10 15183 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+11 15098 FE060 AP005     0    40     0     0     0    20     S UAN-Loesung
+11 15152 FE060 AP005     0    40     0     0     0    20     S UAN-Loesung
+11 15183 FE060 AP005     0    40     0     0     0    20     S UAN-Loesung
+12 15098 FE060 AP005     0    80     0     0     0    40     S UAN-Loesung
+12 15152 FE060 AP005     0    60     0     0     0    30     S UAN-Loesung
+12 15183 FE060 AP005     0    40     0     0     0    20     S UAN-Loesung
+13 15098 FE900 AP005     0    80     0     0     0    40     S UAN-Loesung
+13 15183 FE011 AP001     0    40     0     0    13   -99   -99 Kalkammonsalpeter
+14 15098 FE900 AP005     0   120     0     0     0    60     S UAN-Loesung
+14 15183 FE011 AP001     0    60     0     0    20   -99   -99 Kalkammonsalpeter
+ 0 15098 FE001 AP001     0     0     0     0     0   -99   -99 Control-NoFert
+ 0 15152 FE001 AP001     0     0     0     0     0   -99   -99 Control-NoFert
+ 0 15183 FE001 AP001     0     0     0     0     0   -99   -99 Control-NoFert
+
+*CHEMICAL APPLICATIONS
+@C CDATE CHCOD CHAMT  CHME CHDEP CHT..  CHNAME
+ 1 15111   -99     2   -99   -99 -99    -99
+ 1 15111   -99     2   -99   -99 -99    -99
+ 1 15111   -99     1   -99   -99 -99    -99
+ 1 15153   -99     2   -99   -99 -99    -99
+ 1 15153   -99     0   -99   -99 -99    -99
+
+*HARVEST DETAILS
+@H HDATE  HSTG  HCOM HSIZE   HPC  HBPC HNAME
+ 1 15237   -99   -99   -99   -99   -99 -99
+
+*SIMULATION CONTROLS
+@N GENERAL     NYERS NREPS START SDATE RSEED SNAME                     SMODEL  
+ 1 GE              1     1     S 15077  2150 Duernast 2015 Spring      WHAPS
+@N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
+ 1 OP              Y     Y     N     N     N     N     N     Y     M
+@N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
+ 1 ME              M     M     E     R     S     C     R     1     G     S     2
+@  AUTOMATIC MANAGEMENT
+@N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
+ 1 MA              R     N     R     N     R
+@N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT FMOPT
+ 1 OU              N     Y     Y     1     Y     Y     Y     Y     Y     N     Y     N     Y     A
+@N PLANTING    PFRST PLAST PH2OL PH2OU PH2OD PSTMX PSTMN
+ 1 PL            -99   -99   -99   -99   -99   -99   -99
+@N IRRIGATION  IMDEP ITHRL ITHRU IROFF IMETH IRAMT IREFF
+ 1 IR            -99   -99   -99   -99   -99   -99   -99
+@N NITROGEN    NMDEP NMTHR NAMNT NCODE NAOFF
+ 1 NI            -99   -99   -99   -99   -99
+@N RESIDUES    RIPCN RTIME RIDEP
+ 1 RE            -99   -99   -99
+@N HARVEST     HFRST HLAST HPCNP HPCNR
+ 1 HA            -99   -99   -99   -99
+@N SIMDATES    ENDAT    SDUR   FODAT  FSTRYR  FENDYR FWFILE           FONAME
+ 1 SI            -99     -99     -99     -99     -99 -99              -99
+

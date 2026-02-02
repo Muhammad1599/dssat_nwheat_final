@@ -1,0 +1,12 @@
+"experiment_ID","experiment_year","planting_level","crop_id","planting_date","plant_pop_at_planting","planting_material_weight","row_spacing","plant_spacing","planting_method"
+"LTFE_Duernast","2015",1,"WHT","2015-03-18",NA,NA,NA,NA,NA
+"LTFE_Duernast","2016",1,"MAZ","2016-05-04",NA,NA,30,NA,NA
+"LTFE_Duernast","2017",1,"WHT","2016-10-24",NA,NA,NA,NA,NA
+"LTFE_Duernast","2018",1,NA,"2017-08-31",NA,NA,NA,NA,NA
+"LTFE_Duernast","2018",1,"MAZ","2017-08-31",NA,NA,NA,NA,NA
+"LTFE_Duernast","2018",1,NA,"2018-04-25",NA,NA,NA,NA,NA
+"LTFE_Duernast","2018",1,"MAZ","2018-04-25",NA,NA,NA,NA,NA
+"LTFE_Duernast","2019",1,"WHT","2018-10-11",NA,NA,NA,NA,NA
+"LTFE_Duernast","2020",1,"WHT","2020-03-31",350,NA,NA,NA,NA
+"LTFE_Duernast","2021",1,"BAR","2020-09-16",350,NA,NA,NA,NA
+"LTFE_Duernast","2022",1,"MAZ","2022-05-02",NA,NA,NA,NA,NA
