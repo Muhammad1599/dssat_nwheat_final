@@ -62,8 +62,8 @@ DÜRNAST, Freising, Bayern, Deutschland; 11.69; 48.4; 470.63
 
 *FERTILIZERS (INORGANIC)
 @F FDATE  FMCD  FACD  FDEP  FAMN  FAMP  FAMK  FAMC  FAMO  FOCD FERNAME
- 1 15098 FE005 AP001     0    80     0     0     0   -99   -99 Harnstoff
- 1 15152 FE005 AP001     0    60     0     0     0   -99   -99 Harnstoff
+ 1 15098 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
+ 1 15152 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
  1 15183 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
  2 15098 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
  2 15152 FE005 AP001     0    40     0     0     0   -99   -99 Harnstoff
